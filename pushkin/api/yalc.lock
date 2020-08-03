@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "reading_api": {
+      "signature": "1bd876b27023cc0457f24db23c852f37",
+      "file": true
+    }
+  }
+}
